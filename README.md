@@ -15,6 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-figma design of st store app ui below..,
+figma design link of st store app ui below..,
 
 https://www.figma.com/file/hoCanxB3zs0TCrEEGN4vnA/STStore-(Ecommerce-Store-mobile-design-%2B-UI-KIT)-(Community)?node-id=0%3A1
